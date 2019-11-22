@@ -47,7 +47,8 @@ During my search for shelter data, I came across an organization called Shelter 
 
 I believe their idea could be taken a step further by standardizing intake data (i.e., to compile a wide range of specific data that can be used to make predictions) collected on dogs across shelters and this data could be shared to one database. Shelters could use my model and by collecting more data, it can be even more useful and accurate in predicting outcomes and finding markers for adoption.
 
-In addition to predicting outcomes, by having a large standardized database of dog features and locations, shelters could make recommendations to potential adopters on where to find the right type of dog. Dogs could be transported to sister shelters in regions where there may be a deficit of a desired breed type. Analyzing comprehensive data may also show trends in dog preference by region, certain types of dogs may find it harder to be adopted in certain areas, for example large working breeds may be easier to adopt in the suburbs as opposed to the cities were recreational space is limited.\
+In addition to predicting outcomes, by having a large standardized database of dog features and locations, shelters could make recommendations to potential adopters on where to find the right type of dog. Dogs could be transported to sister shelters in regions where there may be a deficit of a desired breed type. Analyzing comprehensive data may also show trends in dog preference by region, certain types of dogs may find it harder to be adopted in certain areas, for example large working breeds may be easier to adopt in the suburbs as opposed to the cities were recreational space is limited.
+
 The video below shows a Tableau dashboard of a hypothetical shelter dog database and the ability to select different characteristics to find a potential adopter and adoptee match.
 
 Tableau Dashboard Video - https://vimeo.com/348496815a
